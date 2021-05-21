@@ -1,1 +1,1 @@
-A simplistic tex file to generate a template title page of the MACSS thesis. Hope it saves you from 15-min tedious formatting. It best complements with the [LaTex paper template](https://github.com/UC-MACSS/persp-research-econ_Spr20/tree/master/templates).
+A simplistic tex file to generate a template title page of the MACSS thesis. Hope it saves you from 15-min tedious formatting. It best complements the [LaTex paper template](https://github.com/UC-MACSS/persp-research-econ_Spr20/tree/master/templates).
